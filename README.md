@@ -1,2 +1,2 @@
 # HackerRank-Solution-Python
-This Repository contains my HackerRank solution in python.
+This Repository contains my HackerRank solutions in python.
